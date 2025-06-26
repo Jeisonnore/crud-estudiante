@@ -28,4 +28,35 @@ Este es un proyecto CRUD (Crear, Leer, Actualizar y Eliminar) de estudiantes, de
 
 ## 📂 Estructura de carpetas
 
+GUILLERMO CRUD/
+│
+├── config/
+│ └── conexion.php # Conexión a la base de datos
+│
+├── php/
+│ ├── guardar.php # Inserta estudiantes
+│ ├── eliminar.php # Elimina por ID
+│ ├── editar.php # Edita estudiante
+│ └── actualizar.php # Guarda cambios después de editar
+│
+├── index.php # Página principal
+├── one-piece.jpg # Imagen de fondo
+├── 1.jpg #  (opcional)
+└── README.md # Este archivo
+
+---
+
+## 📘 Requisitos
+
+- XAMPP o cualquier servidor local con Apache + MySQL
+- PHP 7.4 o superior
+- phpMyAdmin para crear la base de datos
+
+---
+
+## 🛠️ Configuración inicial
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/tu_usuario/crud-estudiante.git
 
