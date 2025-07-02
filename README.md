@@ -1,5 +1,5 @@
 
-https://jeisonnore.github.io/
+
 # 📚 CRUD de Estudiantes
 ![image](https://github.com/user-attachments/assets/5004a1b0-8600-4a51-a017-990a101c640c)
 Este es un proyecto CRUD (Crear, Leer, Actualizar y Eliminar) de estudiantes, desarrollado en PHP y MySQL, con estilos de Bootstrap 5 y alertas visuales con SweetAlert2.
